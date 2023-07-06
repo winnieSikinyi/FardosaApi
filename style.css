@@ -1,0 +1,12 @@
+.products{
+    background-color: aquamarine;
+}
+#myProduct{
+    display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 5%;
+
+}
+img{
+    width: 30% ;
+}
